@@ -1,0 +1,22 @@
+{
+  "name": "money2uppercase",
+  "version": "1.0.0",
+  "description": "金额大写",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parchments/money2uppercase.git"
+  },
+  "keywords": [
+    "金额转大写"
+  ],
+  "author": "parchments",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parchments/money2uppercase/issues"
+  },
+  "homepage": "https://github.com/parchments/money2uppercase#readme"
+}
