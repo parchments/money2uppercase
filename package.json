@@ -1,6 +1,6 @@
 {
   "name": "money2uppercase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "金额大写",
   "main": "index.js",
   "scripts": {

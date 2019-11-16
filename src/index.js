@@ -1,4 +1,4 @@
-export const money2upcase = (money) => {
+export const money2uppercase = (money) => {
     var cnNums = new Array("零","壹","贰","叁","肆","伍","陆","柒","捌","玖"); //汉字的数字
     var cnIntRadice = new Array("","拾","佰","仟"); //基本单位
     var cnIntUnits = new Array("","万","亿","兆"); //对应整数部分扩展单位
